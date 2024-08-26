@@ -1,2 +1,2 @@
-const taskList = [];
+const taskList = ["Wash", "Dry", "Fold];
 
